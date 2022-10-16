@@ -1,1 +1,1 @@
-A personal site built to help people find me, and view my projects, with my contacts and socials available.
+A personal site built to help people know me and also have an idea of things i love doing.
